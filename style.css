@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+hr {
+  width: 80%;
+}
+code {
+  background: #c7e0cb;
+}
